@@ -1,5 +1,5 @@
 # personal-secretary
-Public Repo of Private repo: lillie-personal-secretary (new base: little-secretary)
+Public Repo of Private repo: [lillie-personal-secretary](https://github.com/Nebulino/lillie-personal-secretary) (new base: [little-secretary - dart](https://github.com/Nebulino/little-secretary)
 
 ## Todo:
 - Fix the generator
