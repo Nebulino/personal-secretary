@@ -12,7 +12,8 @@ Public Repo of Private repo: lillie-personal-secretary (new base: little-secreta
 ![JavelinBeach-1](https://raw.githubusercontent.com/Nebulino/personal-secretary/master/Screenshots/Screenshot2.png)
 ![JavelinBeach-2](https://raw.githubusercontent.com/Nebulino/personal-secretary/master/Screenshots/Screenshot3.png)
 ![HonoluluBeach-1](https://raw.githubusercontent.com/Nebulino/personal-secretary/master/Screenshots/Screenshot4.png)
-Rip different dimention Screens...
+
+- Rip different dimention Screens...
 
 ## More to come:
 Just wait... I guess... I don't have much time...
