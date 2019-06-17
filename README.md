@@ -2,10 +2,10 @@
 Public Repo of Private repo: lillie-personal-secretary
 
 ## Todo:
-> Fix the generator
-> Better dart support
-> A Char chooser?
-> Trello to be implemented...
+- Fix the generator
+- Better dart support
+- A Char chooser?
+- Trello to be implemented...
 
 ## ScreenShots
 ![Laffey](https://raw.githubusercontent.com/Nebulino/personal-secretary/master/Screenshots/Screenshot.png)
@@ -14,3 +14,4 @@ Public Repo of Private repo: lillie-personal-secretary
 ![HonoluluBeach-1](https://raw.githubusercontent.com/Nebulino/personal-secretary/master/Screenshots/Screenshot4.png)
 
 ## More to come...
+Just wait... I guess... I don't have much time...
