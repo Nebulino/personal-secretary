@@ -23,6 +23,6 @@ Just wait... I guess... I don't have much time...
 
 ## Downloads:
 #### 0.1.15 (Mac Only versions for now...):
-- ![Laffey Version - Original](https://github.com/Nebulino/personal-secretary/releases/tag/0.1.15-laf_orig)
-- ![Javelin Version - Beach](https://github.com/Nebulino/personal-secretary/releases/tag/0.1.15-jav_beac)
-- ![Honolyly Version - Beach](https://github.com/Nebulino/personal-secretary/releases/tag/0.1.15-hon_beac)
+- [Laffey Version - Original](https://github.com/Nebulino/personal-secretary/releases/tag/0.1.15-laf_orig)
+- [Javelin Version - Beach](https://github.com/Nebulino/personal-secretary/releases/tag/0.1.15-jav_beac)
+- [Honolyly Version - Beach](https://github.com/Nebulino/personal-secretary/releases/tag/0.1.15-hon_beac)
