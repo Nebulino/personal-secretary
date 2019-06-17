@@ -15,3 +15,8 @@ Public Repo of Private repo: lillie-personal-secretary
 
 ## More to come...
 Just wait... I guess... I don't have much time...
+
+- Windows Support
+- Linux Support
+- Functions
+- Texts
