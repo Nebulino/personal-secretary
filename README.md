@@ -22,6 +22,8 @@ Just wait... I guess... I don't have much time...
 - Linux Support
 - Functions
 - Texts
+- Better Assets Management
+- Better logo?!
 
 ## Downloads:
 #### 0.1.15 (Mac Only versions for now...):
